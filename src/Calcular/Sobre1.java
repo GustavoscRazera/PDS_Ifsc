@@ -4,7 +4,6 @@ package Calcular;
 
 
 import javax.swing.JOptionPane;
-import javax.swing.JPanel;
 
 public class Sobre1 extends ClaculadoraInvestimentosGrid {
 
